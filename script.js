@@ -1,1 +1,3 @@
-alert('Hello World!');
+document.querySelector('button').addEventListener('click', ()=>{
+    alert('Hello World!');
+});
